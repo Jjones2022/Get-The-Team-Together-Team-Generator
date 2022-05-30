@@ -5,6 +5,7 @@ This is an app created to demonstrate the functionality of OOP, which is Object 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Test](#test)
+* [Generated Team](#generated team)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -22,6 +23,9 @@ To run test successfully use the code below:
 ```bash
 npm run test
 ```
+## Generated Team
+Once the program has completed the HTML document should look similar to the one below:
+![Team Generator](./Assets/team-generator.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
