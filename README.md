@@ -3,9 +3,8 @@ This is an app created to demonstrate the functionality of OOP, which is Object 
 ## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#usage)
 * [Test](#test)
-* [GeneratedTeam](#generatedteam)
+* [Generated Team](#generated-team)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -25,7 +24,8 @@ npm run test
 ```
 ## Generated Team
 Once the program has completed the HTML document should look similar to the one below:
-![Team Generator](./Assets/team-profile.png)
+
+![Team Generator](https://github.com/Jjones2022/Get-The-Team-Together-Team-Generator/blob/main/Assets/team%20profile.png?raw=true)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
